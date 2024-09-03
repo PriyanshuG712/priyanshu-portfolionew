@@ -83,8 +83,7 @@ const education = {
 //skills data
 const skills = {
   title: "My Skills",
-  description:
-    "Lorem Ipsum dollar Lorem Ipsum dollar Lorem Ipsum dollar Lorem Ipsum dollar Lorem Ipsum dollar Lorem Ipsum dollar",
+  description:"" ,
   skillList: [
     {
       icon: <FaHtml5 />,

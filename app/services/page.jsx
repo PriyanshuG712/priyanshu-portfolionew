@@ -31,7 +31,7 @@ const services = [
     num: "04",
     title: "SEO",
     description:
-      "earch engine optimization (SEO) service providers, or SEO agencies, help businesses improve their online visibility by optimizing their websites for search engines.",
+      "Search engine optimization (SEO) service providers, or SEO agencies, help businesses improve their online visibility by optimizing their websites for search engines.",
     href: "",
   },
 ];
