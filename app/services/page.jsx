@@ -9,28 +9,29 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor",
+      "We build custom web applications that are scalable, secure, and user-friendly.",
+
     href: "",
   },
   {
     num: "02",
     title: "Data Analyst",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor",
+      "Data analytics service providers can help businesses with: Identifying opportunities, Planning business strategies, Detecting risks, Stopping fraudulent behavior, and Upgrading legacy systems",
     href: "",
   },
   {
     num: "03",
     title: "Prompt Engineer",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor",
+      "A prompt engineer's responsibilities include developing AI-based systems capable of providing quick and accurate answers to user queries",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor",
+      "earch engine optimization (SEO) service providers, or SEO agencies, help businesses improve their online visibility by optimizing their websites for search engines.",
     href: "",
   },
 ];

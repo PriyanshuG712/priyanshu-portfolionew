@@ -1,6 +1,5 @@
 "use client";
 
-import { Description } from "@radix-ui/react-dialog";
 import {
   FaHtml5,
   FaCss3,
@@ -229,7 +228,7 @@ const Resume = () => {
                 <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 xl:gap-[30px]">
                   {skills.skillList.map((skill, index)=>{
                     return (
-                      <TooltipProvider delayDuration={100}>
+                      <TooltipProvider delayDuration={100} key={index}>
                         <Tooltip>
                           <TooltipTrigger className="w-full h-[150px] bg-[#232329] rounded-xl flex justify-center items-center group">
                             <div className="text-6xl group-hover:text-accent transition-all duration-300">{skill.icon}</div>
