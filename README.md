@@ -34,7 +34,7 @@ This is my personal portfolio website, built using Next.js and styled with Tailw
 
 ## Deployment
 
-The portfolio is deployed using Vercel. You can check it live [here](https://prigz-portfolio-sand.vercel.app).
+The portfolio is deployed using Vercel. You can check it live [here](https://prigz-portfolio.vercel.app/).
 
 ## Contributing
 
